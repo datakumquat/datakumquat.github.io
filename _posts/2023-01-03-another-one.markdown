@@ -10,9 +10,6 @@ I have also written a complete install tutorial for the creation of the [Jekyll 
 
 ETA to publishing (24 hours): [ _ ]
 
-
-
-
 TODO:
   - Review [Awesome Jekyll Plugins]
   - [Prometheus tracking] tool
