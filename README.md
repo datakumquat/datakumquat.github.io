@@ -1,2 +1,0 @@
-
-datakumquat.github.io
