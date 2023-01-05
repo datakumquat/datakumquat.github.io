@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Create A GitHub Pages Site Using Jekyll"
-date:   2023-01-03 12:42:21 +1300
+date:   2023-01-03 01:00:00 +1300
 categories: jekyll github
 ---
 START_OF_ARTICLE
