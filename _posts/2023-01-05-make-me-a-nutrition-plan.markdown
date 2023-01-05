@@ -16,10 +16,6 @@ I might find a way to do that in the next few days.
 
 > Let's play a role-playing game. I will act as a potential client who is concerned about their overall health and potential life span, and you will act as a highly-experienced Personal Trainer who is also a certified Nutritionist and Sports Physiotherapist. I want you to design me a personal nutrition plan, that will allow me to intake a maximum of 2000 calories per day, contains no more than 0.95 grams of Protein per Kilogram of Mass, does not contain any Meat except for Chicken or Fish, has very low amounts of Dairy products and is mainly based around Vegetarian meals most likely found in Australia, New Zealand or the Unitied Kingdom. My current mass this morning was 95 Kilograms, I am an adult male, in my early 50s, of a solid build with no known family health risks relating to Heart disease, nor Kidney disease and I do not smoke tobacco products nor drink Alcohol. Make sure that the nutrition plan includes the intake of between 2 and 2.5 litres of fresh water per day, and does not contain any sugary drinks or fast foods. Produce the result with the following headings; Breakfast, mid-Morning Snack, Lunch, mid-Afternoon snack and Dinner, using Metric measurements only. Also, when the plan is complete, provide a summary that highlights the major macronutrients groups and the related daily intake, in a bullet point format.
 
-{% highlight ruby %}
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
 **Result_03:**
 
 {% highlight ruby %}
