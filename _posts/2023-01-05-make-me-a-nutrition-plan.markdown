@@ -206,7 +206,7 @@ Macronutrients
 
 That result is pretty close to the first nutrition plan but with a far better summary, in that it is explicit and informative which as a potential customer is exactly what you would want to see.
 
-Overall that was a good use of 1 hour, and *checks notes* ... 10 cents. I cannot believe that for 10 cents I have been able to ask a digital oracle to create this nutrition plan for me, with non fear or favour.
+Overall that was a good use of 1 hour, and *checks notes* ... 10 cents. I cannot believe that for 10 cents I have been able to ask a digital oracle to create this nutrition plan for me, with no fear or favour.
 
 **What did I learn?**
 
