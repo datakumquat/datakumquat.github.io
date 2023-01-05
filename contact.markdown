@@ -4,16 +4,21 @@ title: Contact
 permalink: /contact/
 ---
 
-This is the Contact page.
+This is my Contact page, feel free to connect if you want to.
 
-Further details to be advised:
+  - [Discord]
+  - [GitHub]
+  - [Reddit]
+  - [Twitter]
+  - [Youtube]
 
-  - Discord
-  - DockerHub
-  - Email
-  - GitHub
-  - Reddit
-  - Twitter
-  - Youtube
+NB: I will get around to putting up some GPG signing Keys sometime in January 2023.
 
-NB: Subject to change without notice.
+[Discord]: datakumquat#6464
+[GitHub]: https://github.com/datakumquat
+[Reddit]: https://www.reddit.com/user/datakumquat
+[Twitter]: https://twitter.com/datakumquat
+[Youtube]: https://www.youtube.com/channel/UCXBV47fIPMCwWj2_W1KRvEA 
+
+
+
