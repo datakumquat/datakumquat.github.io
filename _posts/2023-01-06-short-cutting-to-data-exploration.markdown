@@ -53,7 +53,7 @@ Next, let's make another list, aiming for something similar to Blog Post Heading
 
 Not bad. These results look credible and something a half-decent writer like me, sorry I meant hack, would create with some time.
 
-Let's pick the one that seems relate to discovering hidden patterns, Number 2 and run with it.
+Let's pick the one that seems relate to discovering hidden patterns (Number: 2) and run with it.
 
 **Query_04:**
 
