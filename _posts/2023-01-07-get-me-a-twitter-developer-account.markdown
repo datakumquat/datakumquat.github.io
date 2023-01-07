@@ -32,7 +32,7 @@ Referring to the [ChatGPT Magic] article by [Nate McCallister], let's not make a
 2. Converting file formats: You can use bash scripts to batch convert files from one format to another (e.g. markdown to HTML).
 3. Automating backups: You can use bash scripts to schedule regular backups of important files and directories.
 4. Generating graphics: You can use bash scripts to automatically generate graphs and charts from data sets.
-5 .Building websites: You can use bash scripts to automate the process of building and deploying static websites.
+5. Building websites: You can use bash scripts to automate the process of building and deploying static websites.
 6. Creating documents from templates: You can use bash scripts to populate templates with data to generate documents such as invoices or contracts.
 7. Sending emails: You can use bash scripts to send emails with attachments or personalized messages.
 8. Automating social media posts: You can use bash scripts to schedule and automate social media posts on platforms such as Twitter or Facebook.
@@ -40,7 +40,7 @@ Referring to the [ChatGPT Magic] article by [Nate McCallister], let's not make a
 10. Automating system tasks: You can use bash scripts to automate tasks such as system updates or cleaning up temporary files.
 {% endhighlight %}
 
-Decent list, about what I thought it might return although the Social Media automation seems interesting.
+Decent list, about what I thought it might return, although the Social Media automation seems interesting.
 
 Might as well pursue the Social Media automation and see where that goes.
 
@@ -64,7 +64,7 @@ Once you have chosen a tool or library to use, you can then create a bash script
 To schedule your script to run at regular intervals, you can use a utility such as cron to execute it automatically. For example, you could use cron to run your script every hour, every day, or at any other interval you desire.
 {% endhighlight %}
 
-Since I am a big fan (**big**) of CLI tools & Twitter, let's pursue that as a direction.
+Since I am a **big** fan of CLI tools & Twitter, let's pursue that as a direction.
 
 **Query_03:**
 
