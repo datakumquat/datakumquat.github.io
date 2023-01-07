@@ -8,7 +8,7 @@ Finished work at 5 PM Local_Time, ripped out to the Supermarket for a few things
 
 Arrived home and thought, "Blog post!"
 
-Just as an experiment I decided to use my limited ChatGPT knowledge, some Googling skills and Copy&Paste to see how fast it would take me to take two words and turn it into a blog post.
+Just as an experiment I decided to use my limited ChatGPT knowledge, some Googling skills and Copy&Paste to see how fast it would take me to select one word and turn it into a blog post.
 
 By my reckoning, 10 minutes. Between switching from Notepad to a Browser with ChatGPT running, to a browser with Google Search open, I lost valuable time.
 
