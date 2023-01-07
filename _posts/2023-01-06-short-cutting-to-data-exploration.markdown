@@ -26,9 +26,7 @@ Next, I asked ChatGPT using XP1.
 
 > Give me a list of 10 words that are normally associated with the word 'Data'. Ensure that the joined words have either a Technological or Scientific origin. Present the results in a list, in alphabetical order from the letter A to the letter Z.
 
-Alas, I had a list from the above query, however while using XP1, I accidentally switched to another tab and lost the list.
-
-Out of those 10 results, I chose 'data exploration.'
+Alas, I had a list from the above query, however while using XP1, I accidentally switched to another tab and lost the list. Out of those 10 results, I chose 'data exploration.'
 
 Next, let's make another list, aiming for something similar to Blog Post Headings.
 
