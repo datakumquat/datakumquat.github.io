@@ -74,7 +74,7 @@ Once I have finished editing the new blog post, at the command line anywhere on 
 
 Give it 5 minutes, then refresh the browser and see the changes live on the [Data Kumquat] site.
 
-Now that my learnings and experimentation with ChatGPT, other LLM, the [AI Content Reactor] course, the upcoming [Getting Started with Python for Quant Finance] course ... if I am not finding ways to test & implement the Automation of *everything*, life will get interesting.
+Now, with my learnings and experimentation with ChatGPT, other LLM, the [AI Content Reactor] course, the upcoming [Getting Started with Python for Quant Finance] course and real life ... if I am not finding ways to test & implement the Automation of *everything*, life will get interesting.
 
 Automate or Die.
 
