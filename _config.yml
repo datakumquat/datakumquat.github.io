@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Building a small part of the future, using AI and Python
+title: Building a small part of the future, using AI, Python and Bash
 # email: youtheuser@youtheuser.domain
 description: >- # this means to ignore newlines until "baseurl:"
   Education, Data and Artificial Intelligence are being used to revolutionize
