@@ -25,6 +25,7 @@ Open up ChatGPT, and you will enter a simple brief and get this done fast.
 {% highlight ruby %}
 #!/bin/bash
 
+curl "https://discuss.widgets.com/u/mike_jules/activity/solved" > curl_output_file.txt
 {% endhighlight %}
 
 **Result_01_02:**
@@ -45,7 +46,7 @@ Workable, but let's ensure that it will run on any system that uses Bash (In the
 
 **Query_02:**
 
-> Referring to the above result, reformat the original Bash script with the code fix above. Ensure that you insert a Bash Shebang using the 'env' variable at the top of the file. Do not provide an explanation for this new code and do not advise how to run the script.
+> Referring to the above result, regenerate the original Bash script with the code fix above. Set the hyperlink as a variable using 'url='. Also set the filename to equal 'curl_output_file.txt'. Ensure that you insert a Bash Shebang using the 'env' variable at the top of the file. Also, ensure that the code is commented for future Human code maintainers. Do not provide an explanation for this new code and do not advise how to run the script.
 
 **Result_02_01:**
 
@@ -56,13 +57,20 @@ Workable, but let's ensure that it will run on any system that uses Bash (In the
 {% highlight ruby %}
 #!/usr/bin/env bash
 
-# Use cURL to download the content of the URL and save it to a file
-curl "https://discuss.widgets.com/u/mike_jules/activity/solved" > curl_output_file.txt
+url="https://discuss.widgets.com/u/Mke_Jules/activity/solved"
+filename=curl_output_file.txt
+
+# Modify the hyperlink to suit your needs
+# Modify the output filename to suit your needs also
+# Use cURL to download the content of the URL and save it to the curl_output_file.txt
+curl "$url" > "$filename"
+
+# EOF
 {% endhighlight %}
 
 Verdict?
 
-Once again, a good result and this would certainly be very helpful for a new Bash user. ChatGPT now seems to provide additional information to a Code query that is both contextual and practical.
+Once again, a simple result and this would certainly be very helpful for a new Bash user. ChatGPT now seems to provide additional information to a Code query that is both contextual and practical.
 
 The best part is that you can always use the phrase, 'Do not provide an explanation for this new code and do not advise how to run the script.' to remove any over-sharing from ChatGPT.
 
