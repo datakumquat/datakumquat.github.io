@@ -46,7 +46,7 @@ Workable, but let's ensure that it will run on any system that uses Bash (In the
 
 **Query_02:**
 
-> Referring to the above result, regenerate the original Bash script with the code fix above. Set the hyperlink as a variable using 'url='. Also set the filename to equal 'curl_output_file.txt'. Ensure that you insert a Bash Shebang using the 'env' variable at the top of the file. Also, ensure that the code is commented for future Human code maintainers. Do not provide an explanation for this new code and do not advise how to run the script.
+> Referring to the above result, regenerate the original Bash script with the code fix above. Set the hyperlink as a variable using 'url='. Also set the filename to equal 'curl_output_file.txt'. Ensure that you insert a Bash Shebang using the 'env' variable at the top of the file. Also, ensure that the code is commented for future Human code maintainers. Add the line '# EOF' twice lines below the last current line. Do not provide an explanation for this new code and do not advise how to run the script.
 
 **Result_02_01:**
 
@@ -57,11 +57,13 @@ Workable, but let's ensure that it will run on any system that uses Bash (In the
 {% highlight ruby %}
 #!/usr/bin/env bash
 
+# set hyperlink
+# Modify the hyperlink to suit your needs
 url="https://discuss.widgets.com/u/Mke_Jules/activity/solved"
+# set filename
+# Modify the output filename to suit your needs also
 filename=curl_output_file.txt
 
-# Modify the hyperlink to suit your needs
-# Modify the output filename to suit your needs also
 # Use cURL to download the content of the URL and save it to the curl_output_file.txt
 curl "$url" > "$filename"
 
