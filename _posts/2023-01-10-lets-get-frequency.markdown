@@ -204,7 +204,9 @@ You will notice a few times that it has not answered direct questions, however i
   - [ChatGPT]
   - [XP1]
   - [Getting Started with Python for Quant Finance]
+  - [PyQuant News]
 
 [ChatGPT]: https://openai.com/blog/chatgpt/
 [XP1]: https://xp1.dust.tt/
 [Getting Started with Python for Quant Finance]: https://gettingstartedwithpythonforquantfinance.com/
+[PyQuabt News]: https://twitter.com/pyquantnews
