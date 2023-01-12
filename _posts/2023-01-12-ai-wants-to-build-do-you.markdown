@@ -86,11 +86,9 @@ Let's change tack, and be far more specific but not give too much guidance.
 5. Outlook for workplace-in-a-box
 {% endhighlight %}
 
-Boilerplate nothing more, although it can certianly generate boilerplate faster than you ever could.
+Boilerplate nothing more, although it can certainly generate boilerplate faster than you ever could.
 
-Time matters, so have a basic framework with some merit in 15 seconds is far more practical than you would expect.
-
-Let's add in some specific services to the above result.
+Time matters, so have a basic framework with some merit in 15 seconds is far more practical than you would expect. Let's add in some specific services to the above result.
 
 **XP1Q3:**
 
