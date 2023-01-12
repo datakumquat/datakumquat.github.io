@@ -18,13 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Building a small part of the future, using AI, Python and Bash
+# Original title
+# title: Building a small part of the future, using AI, Python and Bash
+title: Building a Workplace-in-a-Box using AI
 # email: youtheuser@youtheuser.domain
 description: >- # this means to ignore newlines until "baseurl:"
   Education, Data and Artificial Intelligence are being used to revolutionize
-  the way we learn and develop new skills. Python, a programming language,
-  allows us to quickly build apps to explore and visualize data. Learning
-  these technologies can enable us to create amazing digital solutions.
+  the way we learn and develop new skills. The emerging AI tools will allow us
+  to leverage our innovation with a powerful creation partner.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://datakumquat.github.io/"
 twitter_username: datakumquat
