@@ -14,7 +14,7 @@ About 40 minutes into our session, he did a quick recap of my progress and said 
 
 With some simple instructions and guidance, he got me to centre myself rapidly and calm down. Since then I have used those techniques when needed to take some time to myself and breathe, then relax before resuming whatever task I was engaged in. These days, I work hard to get myself centred and focused on what I am doing, and where I am at.
 
-However, old habits die hard, right? Especially if you are a child of a Boomer, where almost everything in Life is a task to be done, to be faced head ... to be worked through. Today, while answering a question, I mentioned the key issues that I had to work through, and he stopped me.
+However, old habits die hard, right? Especially if you are a child of a Boomer, where almost everything in Life is a task to be done, to be faced head on ... to be worked through. Today, while answering a question, I mentioned the key issues that I had to work through, and he stopped me.
 
 He asked, "Why do you have to work through these issues? They are not technical problems to be assessed and fixed, they are Life events to be reacted to, experienced and used to your advantage." This is an interesting position as due to my previous career and my family history, 'as a Man', everything is a task to do, and if you don't then you are not working hard enough and being soft.
 
