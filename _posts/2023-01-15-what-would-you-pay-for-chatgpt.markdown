@@ -21,7 +21,6 @@ As a big fan of ChatGPT and publically-available LLMs anyway, I thought that I w
 
 **Question_02:**
 
-  - How do you use ChatGPT?
   - Please describe the most valuable thing you use it for
   - At what price (per month) would you consider ChatGPT to be so expensive that you would not consider buying it?
 
