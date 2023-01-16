@@ -55,7 +55,7 @@ Obviously I am very interested in access to ChatGPT, from both the personal Use/
 
 Just a minor gripe on the last question: "How upset would you be if you could no longer use ChatGPT?"
 
-Sorry, but I have to ask, what are we? 5? I would not be upset, I'd be technically limited or briefly dissapointed but I would rapidly adjust and seek another path.
+Sorry, but I have to ask, what are we? 5? I would not be upset, I'd be technically limited or briefly disappointed but I would rapidly adjust and seek another path.
 
 That's what Humans do.
 
