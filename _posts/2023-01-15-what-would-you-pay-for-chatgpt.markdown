@@ -50,8 +50,8 @@ See below image:
 
 Obviously I am very interested in access to ChatGPT, from both the personal Use/Learning and commercial perspectives, so assessing this on a prelimiary basis:
 
-  - I would prefer to pay USD $62.50 per week to secure reliable, faster access with greater prompt input limits.
-  - I would be willing to pay upto USD $100 per week to secure reliable, faster access with greater prompt input limits.
+  - I would prefer to pay USD $62.50 per week for reliable access with greater input limits.
+  - I would be willing to pay upto USD $100 per week for reliable access with greater input limits.
 
 Just a minor gripe on the last question: "How upset would you be if you could no longer use ChatGPT?"
 
