@@ -160,6 +160,6 @@ However this was just a quick post, and as I test & adjust further, this documen
 [Getting Started with Python for Quant Finance]
 [Create a base image]
 
-[Create a base image]: https://docs.docker.com/build/building/base-images/
 [Getting Started with Python for Quant Finance]: https://gettingstartedwithpythonforquantfinance.com/
+[Create a base image]: https://docs.docker.com/build/building/base-images/
 
