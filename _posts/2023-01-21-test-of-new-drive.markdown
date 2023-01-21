@@ -26,7 +26,7 @@ Currently I am running through the post-install process, documenting the minimum
   - Full Ruby installation
   - RubyGems install
   - Recover Daily_Backups from Home_Server (Sys_Configs, key Scripts)
-  - Create Local_Repositories from Remote_Repositories
+  - Create 4 x Local_Repositories from 4 x Remote_Repositories
   - Jekyll Static Site Rubygem dependencies (Multiple)
   - Confirm Jekyll site runs and loads
   - My favourite SciFi wallpapers
