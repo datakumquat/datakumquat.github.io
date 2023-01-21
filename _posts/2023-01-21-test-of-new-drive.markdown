@@ -10,7 +10,7 @@ I didn't really, the 2.5" HDD was making some odd noises during the week, and to
 
 Fortunately I always keep a spare 2.5" HDD in the house, with 4 Laptops, it is good practice.
 
-My only gripe, I may have lost the Blog Posts from 16/01/2022-20/01/2022.
+My only gripe, I may have lost the Blog Posts from 16/01/2023-20/01/2023.
 
 Currently I am running through the post-install process, documenting the minimum package installs that I need to get the system functional again.
 
