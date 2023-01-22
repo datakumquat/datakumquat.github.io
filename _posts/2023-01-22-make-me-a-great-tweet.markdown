@@ -22,9 +22,11 @@ Having just published a lengthy but process-driven blog post titled [Rebuild A B
 
 Verdict?
 
-I like it as it is almost exactly what I asked for, however it did seem to take a slight artistic license with the term `install` other than, the formatting and terseness gets a 9/10 from me.
+I like it as it is almost exactly what I asked for, however it did seem to take a slight artistic license with the term `install`, other than that the formatting and terseness gets a 9/10 from me.
 
-Although from a Line and Character perspective, it actually would take you far longer to type out the ChatGPT Prompt, than it would to have typed out the ChatGPT Result. See below.
+Although from a Line and Character perspective, it actually would take you far longer to type out the ChatGPT Prompt, than it would to have typed out the ChatGPT Result.
+
+See below for a quick breakdown.
 
 **Analysis of ChatGPT Prompt:**
 
@@ -52,11 +54,11 @@ $ cat result.txt | wc -m
 261
 {% endhighlight %}
 
-So the ChatGPT Result was 2 more lines but 188 less characters, and once the ChatGPT Prompt was written, it was generated in under 2 seconds.
+So the ChatGPT Result was 2 more lines but 188 less characters than the ChatGPT Prompt, and it was generated in under 2 seconds.
 
-Which brings me to the point that inputting Text via the ChatGPT UI directly, character-by-character, for the initial query is very inefficient. However if you created a Content Generatoring Tool that worked from the Desktop and produced a Text file as a result, which is then Copy&Pasted into the ChatGPT UI ... this `may` reduce the setup time.
+Which brings me to the point, that inputting Text character-by-character via the ChatGPT UI directly, is quite inefficient. However if you created a Content Generatoring Tool that worked from the Desktop and produced a Text file as a result, which is then Copy&Pasted into the ChatGPT UI, this may help.
 
-I need to think on this more, and possibly create a tool.
+This needs some thinking, and possibly the creation of a tool.
 
 The only difference between Us and the Other Great Apes is the sophistication and ubiquity of our Tools.
 
