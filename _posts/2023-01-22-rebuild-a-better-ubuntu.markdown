@@ -6,6 +6,8 @@ categories: blog update
 ---
 This tutorial will assist you to reinstall a better version of Ubuntu, one that is secure and private.
 
+Note: This is [Ubuntu Desktop], not [OpenBSD], so take `secure` and `private` with a grain of Salt or 10.
+
 **Prerequisites:**
 
 {% highlight ruby %}
@@ -57,6 +59,8 @@ curl 7.81.0 (x86_64-pc-linux-gnu) libcurl/7.81.0 OpenSSL/3.0.2 zlib/1.2.11 brotl
 # REF https://gnome-terminator.org
 # Install Terminator Terminal Emulator
 $ sudo apt install terminator
+$ terminator --version
+terminator 2.1.1
 {% endhighlight %}
 
 **New SSH_Key:**
@@ -66,6 +70,17 @@ $ sudo apt install terminator
 # Create new SSH Private Key
 $ ssh-keygen -t ed25519 -C "your_email@example.com"
 
+# Verify key creation
+cd ~/.ssh
+~/.ssh $ ls -al
+total 38
+drwx------  2 dk dk   6 Jan 21 14:36 .
+drwxr-x--- 21 dk dk  31 Jan 22 15:24 ..
+-rw-------  1 dk dk 411 Jan 21 14:33 id_ed25519
+-rw-r--r--  1 dk dk 103 Jan 21 14:33 id_ed25519.pub
+-rw-------  1 dk dk 806 Jan 21 14:36 known_hosts
+-rw-r--r--  1 dk dk 142 Jan 21 14:36 known_hosts.old
+
 # Start ssh-agent
 $ eval "$(ssh-agent -s)"
 
@@ -73,8 +88,7 @@ $ eval "$(ssh-agent -s)"
 $ ssh-add ~/.ssh/id_ed25519
 {% endhighlight %}
 
-
-**Setup GitHub:**
+**Add new SSH_Key to GutHub:**
 
 {% highlight ruby %}
 # REF https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
@@ -108,6 +122,10 @@ pip 22.0.2 from /usr/lib/python3/dist-packages/pip (python 3.10)
 # Install OpenSSH Server for Remote access
 $ apt search openssh-server
 $ sudo apt install openssh-server ssh-askpass
+$ sshd -v
+unknown option -- v
+OpenSSH_8.9p1 Ubuntu-3ubuntu0.1, OpenSSL 3.0.2 15 Mar 2022
+[TRUNCATED]
 
 # Backup `sshd_config`
 $ sudo cp -v /etc/ssh/sshd_config /etc/ssh/sshd_config.backup
@@ -137,6 +155,8 @@ $ sudo systemctl restart ssh
 # REF https://brave.com/linux/
 # Download and add Brave Browser Key & APT repository to System
 $ sudo apt install brave-browser
+$ brave-browser --version
+Brave Browser 109.1.47.171
 {% endhighlight %}
 
 **Setup Ruby:**
@@ -170,6 +190,16 @@ $ bundle exec jekyll serve
 
 # Navigate to localhost:4000
 $ brave-browser http://localhost:4000
+$ brave-browser http://0.0.0.0:4000
+
+# These 2 commands will cause a CPU-related error
+MESA-INTEL: warning: Performance support disabled, consider sysctl dev.i915.perf_stream_paranoid=0
+
+# To remove this error for this current User login-session only:
+$ sudo sysctl dev.i915.perf_stream_paranoid=0
+
+# To fix this issue, follow this thread to the lower solution
+# REF https://ubuntuforums.org/showthread.php?t=2457426
 {% endhighlight %}
 
 This completes the build for your new Ubuntu operating system.
@@ -216,7 +246,8 @@ After that, [Google Search] or [Stack Overflow] are your friend ... or not.
 
 **References:**
 
-  - [Download Ubuntu Desktop]
+  - [Ubuntu Desktop]
+  - [OpenBSD]
   - [Full disk encryption HOWTO]
   - [Full disk encryption Ubuntu 22.04 LTS]
   - [cURL]
@@ -232,7 +263,8 @@ After that, [Google Search] or [Stack Overflow] are your friend ... or not.
   - [Google Search]
   - [Stack Overflow]
 
-[Download Ubuntu Desktop]: https://ubuntu.com/download/desktop
+[Ubuntu Desktop]: https://ubuntu.com/download/desktop
+[OpenBSD]: https://www.openbsd.org/
 [Full disk encryption HOWTO]: https://help.ubuntu.com/community/Full_Disk_Encryption_Howto_2019
 [Full disk encryption Ubuntu 22.04 LTS]: https://jumpcloud.com/blog/how-to-enable-full-disk-encryption-ubuntu-22-04
 [cURL]: https://curl.se/
