@@ -20,15 +20,21 @@ Day 2, Week 1 of the [PyQuantNews] course.
   - Full Ruby 2.3
   - Functional Jekyll-based static site generator
 
-**The associated APT Package list is as follows:**
+How many packages are now on the system?
 
-If you Copy&Paste the nice list from a .TXT file into the Terminal, all you get is this:
+**Generate the Package List:**
+
+{% highlight ruby %}
+$ cat dpkg --list | grep -i 'ii' > file.txt
+{% endhighlight %}
+
+If you Copy&Paste the nice list from `file.txt` into the Terminal, all you get is this:
 
 > ii accountsservice 22.07.5-2ubuntu1.3 amd64 query and manipulate user account information ii acl 2.3.1-1 amd64 access control list - utilities ii acpi-support 0.144 amd64 scripts for handling many ACPI events ii acpid 1:2.0.33-1ubuntu1 amd64 Advanced Configuration and Power Interface event daemon
 
 An unformatted, Text dump which is both ugly to read and difficult for others to copy if needed.
 
-This needs some formatting, so to place the Markdown code needed to turn this Text dump into a formated list, I could do it manually.
+This needs some formatting to turn this Text dump into a readable list which I could do manually.
 
   - Insert 2 SPACES at the beginning of every newline
   - Then insert a `-` character to the right of those SPACES
@@ -48,7 +54,7 @@ In this instance, I will use [Sed], the Stream Editor.
 
 The command syntax will be `Sed_Command file1 file2`
 
-In this case I have copied the existing `dpkg_list_ii_20230124.txt` file to `file01.txt`, and the formatted results will end up in `file02.txt`
+In this case I have copied the existing `file.txt` to `file01.txt`, and the formatted results will end up in `file02.txt`
 
 **Instructions 'I want Sed to':**
 
@@ -1899,17 +1905,19 @@ How many packages is that in total?
 {% highlight ruby %}
 # Change to ~/Documents
 # Grab current DPKG list file
-$ cat dpkg_list_ii_20230121.txt | wc -l
+$ cat file02.txt | wc -l
 1825
 {% endhighlight %}
 
+1825 packages!
+
 We do not often think about the core system, only the highlights but that is what it takes to run a basic but functional Ubuntu Desktop. Everyone of those packages has had 10's, 100's or maybe even 1000's of hours used to develop it to a state of being useful.
 
-That is a significnt contribution by what is essentially an open source and unpaid community.
+That is a significant contribution by what is essentially an open source and unpaid community.
 
 Amazing.
 
-**TODO::**
+**TODO:**
 
   - Find a Markdown Tag that hides long list, until OnMouseClick
 
