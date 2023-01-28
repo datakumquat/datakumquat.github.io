@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Start Anaconda Navigator Using Ubuntu Menu"
+title:  "Start Anaconda Navigator Using A Menu"
 date:   2023-01-27 12:44:56 +1300
 categories: blog update
 ---
