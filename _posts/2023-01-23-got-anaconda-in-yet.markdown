@@ -111,7 +111,7 @@ $ anaconda-navigator
 
 Now, you should have a working Anaconda install, that looks like this:
 
-![This is a screenshot image of the running Anaxonda application on an Ubuntu Desktop](/assets/img/Running_Anaconda_Application_Ubuntu_OS_2023-01-23_21-45-03.png)
+![This is a screenshot image of the running Anaconda application on an Ubuntu Desktop](/assets/img/Running_Anaconda_Application_Ubuntu_OS_2023-01-23_21-45-03.png)
 
 The next course of action will be a tutorial on installing Pip and other PyQuant-related packages.
 
