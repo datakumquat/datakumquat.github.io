@@ -6,11 +6,11 @@ categories: blog update
 ---
 In the previous article, [Start Jupyter Notebook], you saw how to start your Anaconda session on Ubuntu using the Activities menu, then invoke a new Jupyter Notebook using the shell.
 
-Once the Jupyter Notebooks load, the new UI looks like this:
+Once the new Jupyter Notebook loads, the Main UI looks like this:
 
 ![Screenshot image of Jupyter Notebook Server Main UI](/assets/img/Jupyter_Notebook_Main_UI_2023-02-04.png)
 
-The default view is the FILES view, with sub-views available of:
+The default view is of the `FILES` view, with sub-views available of:
 
   - Running
   - Clusters
