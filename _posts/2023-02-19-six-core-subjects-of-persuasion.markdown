@@ -183,7 +183,7 @@ By applying these principles of influence in a thoughtful and strategic way, bus
 
 Verdict?
 
-That was not a bad little exercise, starting with a simple prompt, then expanding into a more explicit one, base don the initially returned results and the thoughts that arise form reading that.
+That was not a bad little exercise, starting with a simple prompt, then expanding into a more explicit one, based on the initially returned results and the thoughts that arise from reading that.
 
 I will do some more testing but I think this might be a good method to follow for the future.
 
