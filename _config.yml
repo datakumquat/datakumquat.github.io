@@ -18,12 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# Original title
-# title: Building a small part of the future, using AI, Python and Bash
-title: Building the new Workplace with AI
+title: Building The New Workplace With AI
 # email: youtheuser@youtheuser.domain
-# description: >- # this means to ignore newlines until "baseurl:"
-description: As we move towards the future, the collaboration between humans and AI-based tools will create a workplace that is not only more prosperous, but also more innovative and growth-oriented, benefiting all of humanity.
+description: As we move towards the future, the collaboration between humans and AI-based tools will create a workplace that is not only more prosperous, but also more innovative and growth-oriented.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://datakumquat.github.io/"
 twitter_username: datakumquat
