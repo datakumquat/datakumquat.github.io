@@ -52,9 +52,11 @@ Summarize the book "Influence: The Psychology of Persuasion"
 
 > Overall, "Influence: The Psychology of Persuasion" provides valuable insights into the psychology of persuasion and the ways in which people can be influenced to say "yes" to requests. It is a must-read for anyone who wants to understand the science of persuasion and improve their ability to influence others.
 
-I am surprised with the result, but then after thinking, not really surprised. The ChatGTP ver. 2/3 models have been trained on millions, nay billions of points of Data, what we ordinary fact would call 'facts'.
+I am surprised with the result, but then after thinking, not really surprised. The ChatGTP ver. 2/3 models have been trained on millions, nay billions of points of Data, what we ordinary people would call 'facts'.
 
-ChatGPT is good at reviewing text and identifying semantic and conceptual links, then outputting into a human-friendly format. I cannot wait to see the increased depth of the ChatGPT knowledge domain when ChatGPT ver. 4 will allegedly be trained on trillions of data points.
+ChatGPT is good at reviewing text, easily identifying semantic and conceptual links, then outputting into a human-friendly format. I cannot wait to see the increased depth of the ChatGPT knowledge domain when ChatGPT ver. 4 will allegedly be trained on trillions of data points.
+
+Trillions! The mind boggles.
 
 Let's regenerate with some specific instructions.
 
