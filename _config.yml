@@ -20,12 +20,15 @@
 
 # Original title
 # title: Building a small part of the future, using AI, Python and Bash
-title: Building a Workplace-in-a-Box with AI
+title: Building the new Workplace with AI
 # email: youtheuser@youtheuser.domain
 description: >- # this means to ignore newlines until "baseurl:"
-  Education, Data and Artificial Intelligence are being used to revolutionize
-  the way we learn and develop new skills. The emerging AI tools will allow us
-  to leverage our innovation with a powerful creation partner.
+#  Education, Data and Artificial Intelligence are being used to revolutionize
+#  the way we learn and develop new skills. The emerging AI tools will allow us
+#  to leverage our innovation with a powerful creation partner.
+As we move towards the future, the collaboration between humans and AI-based tools
+will create a workplace that is not only more prosperous, but also more innovative
+and growth-oriented, benefiting all of humanity.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://datakumquat.github.io/"
 twitter_username: datakumquat
