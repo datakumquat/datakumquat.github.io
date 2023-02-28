@@ -52,9 +52,13 @@ Modify this list to include Item 9 from the article Summary list.
 
 Verdict?
 
-Not a bad result, although I am a little surprised that instead of placing the two closely-related items 'Inject Start Text' and 'Inject Restart Text' onto 1 line as was the article; it split them out into 2 separate points; then did a recount; deciding to delete the last required entry.
+Not a bad result, although I am a little surprised to see that initially, instead of placing the two closely-related items 'Inject Start Text' and 'Inject Restart Text' onto 1 line as was the article; it split them out into 2 separate points; then did a recount; deciding to delete the last required entry.
+
+Well, I did say 9, right?
 
 Still, this was likely quicker than typing these 9 parameters out into a list, but possibly only just.
+
+This extracted list now gives me the ability to force ChatGPT or XP1 to produce different results, which is a great idea for series of articles, that I will plan for this week.
 
 **References:**
 
